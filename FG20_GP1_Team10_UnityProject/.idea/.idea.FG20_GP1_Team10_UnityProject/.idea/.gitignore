@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.FG20_GP1_Team10_UnityProject.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Perforce\Philip.Wallner_GameProject_1\FG20FT_GP_Team_10\FG20_GP1_Team10_UnityProject\.idea\.idea.FG20_GP1_Team10_UnityProject\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
